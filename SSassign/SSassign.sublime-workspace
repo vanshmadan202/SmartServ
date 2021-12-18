@@ -1,0 +1,590 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"login"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"algn",
+				"text-align\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"fla",
+				"float\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"mr",
+				"margin\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"image",
+				"background-image\tproperty"
+			],
+			[
+				"backgr",
+				"background-position\tproperty"
+			],
+			[
+				"imag",
+				"image"
+			],
+			[
+				"j",
+				"jpg"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"bakgrou",
+				"background-color\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"coll",
+				"collapsable-nav"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"mat",
+				"margin-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"log",
+				"Logo"
+			],
+			[
+				"nav",
+				"navbar-header"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"col-lg",
+				"col-lg-3"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\">\n\n<head>\n    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <meta charset=\"utf-8\">\n    <title>login</title>\n    <link rel=\"stylesheet\" href=\"login.css\">\n    <script src=\"index.js\"></script>\n</head>\n\n<body>\n    <section>\n        <img src=\"login_page_img.jpg\" alt=\"\">\n        <div class=\"box\">\n            <div class=\"form\">\n                <form class=\"\" action=\" \" method=\"post\" enctype=\"multipart/form-data\">\n                    <!-- {% csrf_token %} -->\n                    <div class=\"inputBx\">\n                        <input type=\"text\" name=\"username\" placeholder=\"Username\" id=\"username\" oninput=\"validation()\" required autofocus>\n                        \n                    </div>\n                    <div class=\"inputBx\">\n                        <input type=\"password\" name=\"passward\" id=\"password\" placeholder=\"Passward\" oninput=\"validation()\" required>\n                        <img src=\"images/lock.png\" alt=\"\">\n                    </div>\n                    <div class=\"inputBx\">\n                        <input type=\"submit\" name=\"submit\" value=\"Login\" id=\"submit\">\n                    </div>\n                </form>\n                <p style=\"text-align: center;\"> <a href=\"#\">Forgot Password</a>? </p>\n                \n\n            </div>\n\n        </div>\n    </section>\n\n</body>\n\n</html>",
+			"file": "/C/Users/Vansh/Documents/indexss.html",
+			"file_size": 1469,
+			"file_write_time": 132842765059467422,
+			"settings":
+			{
+				"buffer_size": 1428,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "indexss.html",
+			"settings":
+			{
+				"buffer_size": 1428,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Vansh/Documents/task1.html",
+			"settings":
+			{
+				"buffer_size": 899,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "* {\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n    font-family: \"Poppins\", sans-serif;\n}\n\nsection {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    min-height: 100vh;\n    background-color: #000000;\n    /*background: linear-gradient( -25deg, #03a9f4 0%, #3a78b7 50%, #262626 50%, #607d8d 100%);\n    backdrop-filter: hue-rotate(120deg);\n    animation: animate 10s ease-in infinite;*/\n}\n\n/*@keyframes animate {\n    0% {\n        filter: hue-rotate(0deg);\n    }\n    100% {\n        filter: hue-rotate(360deg);\n    }\n}*/\n\n.box {\n    position: relative;\n    padding: 50px;\n    padding-top: 0px;\n    width: 360px;\n    height: 480px;\n    display: flex;\n    transform: translateY(-800px);\n    justify-content: center;\n    align-items: center;\n    background: rgba(255, 255, 255, 0.1);\n    background-image: url(login_page_img.jpg);\n    border-radius: 6px;\n    box-shadow: 0 5px 35px rgba(0, 0, 0, 0.2);\n    animation: appare 1.5s linear;\n    animation-iteration-count: 1;\n    animation-direction: normal;\n    animation-fill-mode: forwards;\n}\n\n@keyframes appare {\n    0% {\n        transform: translateY(-800px);\n    }\n    40% {\n        transform: translateY(0px);\n    }\n    55% {\n        transform: translateY(-80px);\n    }\n    70% {\n        transform: translateY(0px);\n    }\n    85% {\n        transform: translateY(-40px);\n    }\n    100% {\n        transform: translateY(0px);\n    }\n}\n\n.box::after {\n    content: \"\";\n    position: absolute;\n    top: 5px;\n    left: 5px;\n    right: 5px;\n    bottom: 5px;\n    border-radius: 5px;\n    pointer-events: none;\n    background: linear-gradient( to bottom, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.1) 15%, transparent 50%, transparent 85%, rgba(255, 255, 255, 0.3) 100%);\n}\n\n.box .form {\n    position: relative;\n    width: 100%;\n}\n\n.box .form h2 {\n    color: white;\n    font-weight: 600;\n    letter-spacing: 2px;\n    margin-bottom: 30px;\n    text-align: center;\n    position: relative;\n    top: -20px;\n}\n\n.box .form .inputBx {\n    position: relative;\n    width: 100%;\n    margin-bottom: 20px;\n}\n\n.box .form .inputBx input {\n    width: 100%;\n    outline: none;\n    border: 1px solid rgba(255, 255, 255, 0.2);\n    background: transparent;\n    padding: 8px 10px;\n    padding-left: 35px;\n    border-radius: 6px;\n    color: white;\n    font-size: 16px;\n    font-weight: 300;\n    box-shadow: inset 0 0 25px rgba(0, 0, 0, 0.2);\n}\n\n.box .form .inputBx input ::placeholder {\n    color: white;\n}\n\n.box .form .inputBx input[type=\"submit\"] {\n    background: #4eba30;\n    color: black;\n    max-width: 150px;\n    padding: 8px 24px;\n    box-shadow: none;\n    font-weight: 700;\n    letter-spacing: 1px;\n    cursor: pointer;\n    font-size: 16px;\n}\n\n.box .form .inputBx input[type=\"submit\"]:disabled {\n    background: rgb(175, 175, 175);\n    color: rgb(116, 116, 116);\n    font-weight: 300;\n    letter-spacing: 1px;\n    cursor: not-allowed;\n    font-size: 14px;\n}\n\n.box .form .inputBx img {\n    position: absolute;\n    top: 10px;\n    left: 10px;\n    transition: scale(0.7);\n    filter: invert(1);\n}\n\n.remeber {\n    position: relative;\n    display: inline-block;\n    color: white;\n    font-weight: 300;\n    margin-bottom: 10px;\n    cursor: pointer;\n}\n\n.box .form p {\n    color: white;\n    font-weight: 300;\n    font-size: 15px;\n    margin-top: 5px;\n}\n\n.box .form a {\n    color: white;\n}\n\n.box .form a:hover {\n    color: purple;\n}\n\n@media screen and (max-width: 400px) {\n    .box {\n        padding: 20px;\n        width: 310px;\n        height: 420px;\n    }\n}\n\n.user {\n    width: 100px;\n    height: 100px;\n    border-radius: 50%;\n    display: block;\n    position: relative;\n    top: -70px;\n    filter: grayscale(1);\n    margin: auto;\n    box-shadow: 0 5px 35px rgba(0, 0, 0, 0.2);\n    border: 5px solid rgba(255, 255, 255, 0.1);\n}",
+			"file": "/C/Users/Vansh/Documents/login.css",
+			"file_size": 3981,
+			"file_write_time": 132842765029670930,
+			"settings":
+			{
+				"buffer_size": 3790,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "function validation() {\n    let username = document.getElementById(\"username\").value;\n    let pass = document.getElementById(\"password\").value;\n    var enteredEmail = document.getElementById(\"username\").value;\n\n    var mail_format = /^w+([.-]?w+)*@w+([.-]?w+)*(.w{2,3})+$/;\n    if(enteredEmail.match(mail_format))\n    {\n    \talert(“Yeah! a valid email!”);\n    }\n    else\n    {\n    \talert(“Sorry! an invalid email!”);\n    }\n\n    if (username != \"\" && pass != \"\") {\n        document.getElementById(\"submit\").disabled = false;\n    } else {\n        document.getElementById(\"submit\").disabled = true;\n    }\n}",
+			"file": "/C/Users/Vansh/Documents/index.js",
+			"file_size": 631,
+			"file_write_time": 132842347083839113,
+			"settings":
+			{
+				"buffer_size": 603,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Vansh/Documents/SSassign"
+	],
+	"file_history":
+	[
+		"/C/Users/Vansh/Documents/liv.html",
+		"/C/Users/Vansh/Documents/javascript.sublime-project",
+		"/C/Users/Vansh/Documents/SS_assign",
+		"/C/Users/Vansh/Downloads/login_page_img.png",
+		"/C/Users/Vansh/Documents/index4.sublime-workspace",
+		"/C/Users/Vansh/Documents/script.js",
+		"/C/Users/Vansh/Pictures/images/kitchen.png",
+		"/C/Users/Vansh/Pictures/images/star.jpg",
+		"/C/Users/Vansh/Pictures/images/Isi_mark.gif",
+		"/C/Users/Vansh/Downloads/bootstrap-5.0.0-beta2-dist (1)/bootstrap-5.0.0-beta2-dist/js/aluminium-kitchen-designs-for-your-home.jpg",
+		"/C/Users/Vansh/Downloads/bootstrap-5.0.0-beta2-dist (1)/bootstrap-5.0.0-beta2-dist/js/bootstrap.esm.min.js",
+		"/C/Users/Vansh/Downloads/logo.png",
+		"/C/Users/Vansh/Downloads/bootstrap-5.0.0-beta2-dist (1)/bootstrap-5.0.0-beta2-dist/js/bootstrap.min.js",
+		"/C/Users/Vansh/Documents/coursera",
+		"/C/Users/Vansh/Downloads/bootstrap-5.0.0-beta2-dist (1)/bootstrap-5.0.0-beta2-dist/css/bootstrap.min.css",
+		"/C/Users/Vansh/Downloads/bootstrap-5.0.0-beta2-dist (1)/bootstrap-5.0.0-beta2-dist/css/bootstrap.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Vansh/Documents/indexss.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								789,
+								789
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 83.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "indexss.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Vansh/Documents/task1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								808,
+								808
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Vansh/Documents/login.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1449,
+								1449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 859.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Vansh/Documents/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"file": "/C/Users/Vansh/Downloads/login_page_img.jpg",
+					"semi_transient": false,
+					"stack_index": 3,
+					"type": "image"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 115.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SSassign.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
